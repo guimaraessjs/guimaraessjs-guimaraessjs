@@ -62,9 +62,9 @@
 
 ### 📌 Projetos em destaque
 
-- **[nome-do-projeto](https://github.com/seu-usuario/projeto1)** — API REST em Spring Boot + PostgreSQL, com deploy em EC2/RDS na AWS
-- **[nome-do-projeto-2](https://github.com/seu-usuario/projeto2)** — Sistema modelado com POO e Design Patterns (ex: Strategy, Factory, Repository)
-- **[nome-do-projeto-3](https://github.com/seu-usuario/projeto3)** — API RESTful com autenticação JWT, documentação Swagger e testes unitários com JUnit
+- **[NOT DONE YET](https://github.com/seu-usuario/projeto1)** — API REST em Spring Boot + PostgreSQL, com deploy em EC2/RDS na AWS
+- **[NOT DONE YET](https://github.com/seu-usuario/projeto2)** — Sistema modelado com POO e Design Patterns (ex: Strategy, Factory, Repository)
+- **[NOT DONE YET](https://github.com/seu-usuario/projeto3)** — API RESTful com autenticação JWT, documentação Swagger e testes unitários com JUnit
 
 ### 📊 Estatísticas do GitHub
 
