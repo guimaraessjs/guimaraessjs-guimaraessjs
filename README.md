@@ -69,8 +69,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guimaraessjs&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraessjs&layout=compact" height="165" />
 </p>
 
 <p align="center">
